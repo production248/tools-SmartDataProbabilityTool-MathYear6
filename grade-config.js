@@ -1,0 +1,1 @@
+﻿window.DATA_PROBABILITY_GRADE = 6;
